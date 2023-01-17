@@ -4,7 +4,7 @@
       <span>Box Shadows</span>
       <div class="flex items-center">
         <a
-            href="https://github.com/two-beards/box-shadows/"
+            href="https://github.com/uvacoder/uva-boxshadows-guide/"
             target="_blank"
             rel="noreferrer noopener"
             title="View on GitHub"
